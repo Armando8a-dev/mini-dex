@@ -7,8 +7,8 @@
 ![Tests](https://img.shields.io/badge/tests-21%20passing-success)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-🔗 **Live demo:** _coming soon_
-📜 **Contract (Sepolia):** _deploy pending_
+🔗 **Live demo:** https://mini-dex-b11.netlify.app
+📜 **Contract (Sepolia):** [0x93852eB43E1739F3691a984cF4F51047d8cCa1C8](https://sepolia.etherscan.io/address/0x93852eB43E1739F3691a984cF4F51047d8cCa1C8)
 
 ---
 
